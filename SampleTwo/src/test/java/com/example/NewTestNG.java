@@ -20,6 +20,10 @@ public class NewTestNG {
 	  String name2="Anil";
 	  
 	 assertEquals(name1, name2);
+	 
+  
+	 
+	 
   }
   
   

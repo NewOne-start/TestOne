@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-05-24T13:55:08 IST" name="Default suite" finished-at="2020-05-24T13:55:08 IST" duration-ms="69">
+  <suite started-at="2020-05-24T16:01:12 IST" name="Default suite" finished-at="2020-05-24T16:01:12 IST" duration-ms="78">
     <groups>
     </groups>
-    <test started-at="2020-05-24T13:55:08 IST" name="Default test" finished-at="2020-05-24T13:55:08 IST" duration-ms="69">
+    <test started-at="2020-05-24T16:01:12 IST" name="Default test" finished-at="2020-05-24T16:01:12 IST" duration-ms="78">
       <class name="com.example.NewTestNG">
-        <test-method signature="TestNGOne()[pri:0, instance:com.example.NewTestNG@117e949d]" started-at="2020-05-24T13:55:08 IST" name="TestNGOne" finished-at="2020-05-24T13:55:08 IST" duration-ms="9" status="PASS">
+        <test-method signature="TestNGOne()[pri:0, instance:com.example.NewTestNG@117e949d]" started-at="2020-05-24T16:01:12 IST" name="TestNGOne" finished-at="2020-05-24T16:01:12 IST" duration-ms="10" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestNGOne -->
-        <test-method signature="Testequal()[pri:0, instance:com.example.NewTestNG@117e949d]" started-at="2020-05-24T13:55:08 IST" name="Testequal" finished-at="2020-05-24T13:55:08 IST" duration-ms="13" status="PASS">
+        <test-method signature="Testequal()[pri:0, instance:com.example.NewTestNG@117e949d]" started-at="2020-05-24T16:01:12 IST" name="Testequal" finished-at="2020-05-24T16:01:12 IST" duration-ms="11" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Testequal -->
