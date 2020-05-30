@@ -12,8 +12,7 @@ public class App
         
         System.out.print("Automation via jenkins");
         
-        
-        System.out.print("Automation via jenkins");
+     
     }
     
     
