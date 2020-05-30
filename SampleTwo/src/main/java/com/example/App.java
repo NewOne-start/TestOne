@@ -11,6 +11,9 @@ public class App
         System.out.println( "Welcome to Devps with using maven" );
         
         System.out.print("Automation via jenkins");
+        
+        
+        System.out.print("Automation via jenkins");
     }
     
     
